@@ -7,3 +7,5 @@ This code uses Tensorflow 1.15.0
 To run: `python3 main.py`
 
 The default training run will produce a chaser spacecraft the captures and simultaneously stabilizes a target spacecraft. Videos will be produced as well. Good results should be obtained after roughly 14 days.
+
+A pre-trained model and accompanying videos are found in the `Trained model' folder
