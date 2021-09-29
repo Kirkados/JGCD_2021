@@ -1,4 +1,4 @@
-This code accompanies the paper "Manipulator-based Spacecraft Capture and Simultaneous Stabilization Using Deep Reinforcement Learning Guidance," submitted for possible publication in the Journal of Guidance, Control, and Dynamics.
+This code accompanies the paper "Spacecraft Robotic Capture and Simultaneous Stabilization Using Deep Reinforcement Learning-based Guidance," submitted for possible publication in the Journal of Guidance, Control, and Dynamics.
 
 A D4PG Implementation for manipulator-enabled spacecraft, tasked with capturing and stabilizing a piece of space debris. Trained entirely in simulation, it was then deployed to the Spacecraft Proximity Operations Testbed experimental facility at Carleton University.
 
